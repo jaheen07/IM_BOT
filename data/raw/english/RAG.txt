@@ -1,0 +1,766 @@
+﻿## 1. COMPANY PROFILE
+
+
+### 1.1 About Acme AI Ltd.
+
+
+Acme AI Ltd. is a forward-thinking technology startup established in 2020 by Syed Sharek Ahmed Roomy, with Syed Sadhli Ahmed Roomy as Co-Founder. The company specializes in providing high-quality data annotation services that enhance artificial intelligence and machine learning systems. In addition to annotation services, Acme AI operates a dedicated Machine Learning team, delivers offshore support services, and conducts professional training and certification programs related to data annotation and AI. The organization is committed to innovation, operational excellence, and long-term growth in the AI ecosystem. Furthermore, Acme AI Ltd. is a subsidiary company of Acme Technologies. The parent company provides strategic oversight and governance guidance; however, Acme AI Ltd. operates as a separate legal entity with its own management, employees, and internal policies, unless otherwise specified.
+
+
+### 1.2 Company Location
+
+
+Acme AI Ltd. is located at House 385, Road 06, Avenue 03, Mirpur DOHS, Dhaka-1216.
+
+
+### 1.3 Company Type
+
+
+Acme AI Ltd. is a limited liability company (Ltd.), meaning it is a legally distinct entity from its shareholders. The liability of shareholders is limited to the amount of their investment in the company. This structure provides legal stability, operational continuity, and enhanced governance for employees and stakeholders.
+
+
+### 1.4 Vision
+The vision of Acme AI Ltd. is to become the leading annotation service provider while diversifying into the development of proprietary AI-driven products that contribute to global technological advancement.
+
+
+### 1.5 Mission
+
+
+The mission of Acme AI Ltd. is to deliver accurate, scalable, and reliable AI data solutions, foster a culture of discipline and continuous improvement, support employee growth, and maintain strong, ethical partnerships with clients worldwide.
+
+
+### 1.6 Core Values
+
+
+Acme AI Ltd. operates based on core values that include integrity, quality, accountability, teamwork, discipline, and innovation. These values guide all decisions, behaviors, and interactions within the organization.
+
+
+### 1.7 Office Space
+
+
+The office space for Acme AI is spread across the 4th and 5th floors. 
+
+
+4th Floor: This floor includes desks and a conference room. 
+5th Floor: Here, you'll find an operations and HR room, the MD & Chairman's room, and a dining area. 
+Each floor is equipped with three washrooms. The layout ensures that employees have access to necessary facilities and comfortable working spaces. Moreover, for personal guests, there is a designated area named the Design Room. However, you can also receive them in the conference room if it is available at that time, after obtaining approval from the HR department. 
+
+
+### 1.8 Office hours
+
+
+The standard working hours at Acme AI Ltd. are from 9:00 AM to 6:00 PM, Sunday through Friday. Saturday is observed as the weekend. Working hours may be adjusted based on management decisions, with prior communication to employees.
+
+
+### 1.9 Social Link
+
+
+Website: www.acmeai.tech
+ERP link: http://103.205.135.34/acmeerp/
+Facebook: https://www.facebook.com/AcmeAILtd
+Linkedin: https://www.linkedin.com/company/acme-ai/
+
+
+## 2. ORGANIZATIONAL STRUCTURE
+
+
+### 2.1 Governance and Leadership
+
+
+The governance of Acme AI Ltd. is led by the Chairman, Major General Syed Fatemy Ahmed Roomy (Retd.), supported by the Chief Executive Officer (CEO) and Co-Founder, Sadhli Ahmed Roomy. The company operates under the guidance of eight directors who provide strategic oversight and policy direction.
+
+
+### 2.2 Management Hierarchy
+
+
+The organizational hierarchy follows a structured chain of command beginning with the Chairman and CEO, followed by the Operation Lead and Operation Manager. Operational execution is managed by Project Coordinators, who supervise Team Leads and Assistant Team Leads. Production Officers, Annotators, and support staff operate under this framework to ensure accountability, quality, and efficiency.
+
+
+### 2.3 Departments
+
+
+Acme AI Ltd. is organized into several functional departments including Operations, Human Resources (People), Finance, Strategic Support, Machine Learning, Information Technology, and Administration. Each department has several defined roles and responsibilities aligned with organizational objectives.
+
+
+## 3. PRODUCTS AND SERVICES
+
+
+### 3.1 Core Services
+
+
+Acme AI Ltd. provides comprehensive data annotation services across image, video, and text-based datasets. The company also supports Large Language Model (LLM), Local and International AI projects and delivers offshore operational services to international clients.
+
+
+### 3.2 Training and Certification
+
+
+In addition to service delivery, Acme AI Ltd. offers professional training programs, including the Image Labeling Associate Certificate, aimed at developing skilled annotation professionals and strengthening industry capacity.
+
+
+## 4. EMPLOYMENT POLICIES
+
+
+### 4.1 Employment Types
+
+
+The company engages employees under several categories including full-time employees, contractual or freelance personnel, and interns. Employment terms vary based on role, duration, and operational requirements.
+
+
+
+### 4.2 Remote and Home Office Policy
+
+
+Employees may request to work from home by formally emailing their immediate supervisor and the HR department before the start of office hours. Approval is subject to operational feasibility and managerial discretion. Employees working remotely are required to complete an additional ten percent of their daily work targets to maintain performance parity.
+
+
+### 4.3 Profit Sharing
+
+
+At the end of each quarter, if Acme AI meets the minimum required profit set by the authority, 15% of the profit will be shared with employees who have served for at least a year, calculated on a prorated basis. It is also known as quarterly bonus.
+
+
+## 5. ATTENDANCE AND DISCIPLINE
+
+
+Attendance at Acme AI Ltd. is monitored through electronic fingerprint devices and the ERP system. Employees are required to record attendance at the start and end of their workday. A grace period of five minutes is allowed, after which late entry is recorded. Repeated or habitual lateness may result in salary deductions and disciplinary actions as per company policy.
+
+
+To encourage punctuality, the company offers an attendance incentive. Employees who maintain one hundred percent attendance and arrive on time are eligible for a monthly attendance bonus of BDT 1,000. Remote employees may also qualify for this incentive by completing additional assigned work.
+
+
+### 5.1 Late penalties
+
+
+Late penalties are structured as follows: 
+less than 3 days late will not result any penalties.
+3 days: Half-day salary deduction.
+5 days: 1 day’s full salary deduction.
+8 days: 2 day’s full salary deducted. 
+10 days: 3 day’s full salary deducted. 
+13 days: 3.5 day's full salary deducted.
+15 days: 4 day's full salary deducted. 
+18 days: 5 day's full salary deducted. 
+Habitual lateness will lead to higher disciplinary actions.
+
+
+Note: Employees should check their attendance in ERP daily and report any discrepancies immediately to the HR department. For detailed policy information, please contact the HR Department. 
+
+
+## 6. COMPENSATION AND SALARY STRUCTURE
+
+
+Employee compensation at Acme AI Ltd. is structured into multiple components. The basic salary constitutes 31.25 percent of the gross salary, with allowances such as, house rent, medical, transport, mobile, and internet allowances calculated as defined percentages of the basic salary. Below is the official salary structure for each employee based on company policy: 
+
+
+Basic Salary: 31.25% of Gross Salary.
+House Rent Allowance: 100% of Basic Salary. 
+Medical Allowance: 60% of Basic Salary. 
+Transport Allowance: 35% of Basic Salary. 
+Mobile Allowance: 15% of Basic Salary.
+
+
+The salary month runs from the 26th of one month to the 25th of the following month. Salaries are disbursed on the first working day of each calendar month. Annual salary increments are determined through performance evaluations conducted at the end of the fiscal year, subject to management approval. In cases of position changes or other occasions where an increment is warranted, any adjustments are solely determined by the judgment and decision of higher authorities within the company. 
+
+
+### 6.1 Bonus
+
+
+Permanent employees who have completed 6 months of service are eligible for 50% of their total gross salary as the Eid Bonus. 
+
+
+Employees who have not yet completed 6 months will receive a prorated bonus. The bonus amount is calculated as 25% of their gross salary, multiplied by the number of completed months of service, and then divided by the probation period in months. 
+
+
+## 7. EMPLOYEE BENEFITS
+
+
+Acme AI Ltd. provides a range of benefits designed to support employee well-being and motivation. These include attendance incentives, two annual festival bonuses, quarterly profit-sharing for eligible employees, mobile bill allowances for designated roles, training opportunities, refreshments, and a supportive work environment. The company may also support participation in industry conferences when such participation aligns with business objectives. Here are the detailed employee benefits list that Acme AI provides to its employee (some may vary):
+
+
+Attendance incentives.
+Two festival bonuses per year. 
+Unlimited coffee.
+Daily snacks.
+Remote work options when required. 
+Freelance opportunities when available.
+Annual leave encashment. 
+Quarterly profit share. 
+Mobile bill coverage for certain positions.
+Friendly work environment.
+Free training programs for employees.
+
+
+### 7.1 Employee ID
+
+
+To get your employee ID card, please fill out the provided Google Form and inform the HR department: https://docs.google.com/forms/d/e/1FAIpQLSf8w54YiLsn9i1391Yvxqmtd8d8trICRJPGnEVXnMNYv_GWVg/viewform 
+
+
+They will process your request and issue your ID card accordingly. 
+
+
+### 7.2 Finger-Print
+
+
+To add or update your fingerprint in the fingerprint device, follow these steps: 
+Inform HR department that you need to add or update your fingerprint. 
+Meet with Office Assistant, Md. Mahmudul Hasan Rony, the person in charge of the fingerprint device. Coordinate with him to add or update your fingerprint. 
+Go to the designated fingerprint device, where Md. Mahmudul Hasan Rony will assist you in registering your fingerprint into the ERP machine.
+
+
+## 8. LEAVE POLICY
+
+
+The company offers various types of leave including,
+annual or earned leave, 
+casual leave, 
+sick leave, 
+maternity leave, 
+unpaid leave, 
+adjustment leave, and 
+bridge leave
+
+
+During the probation period, leave is generally not permitted except in emergencies, in which case unpaid leave may be granted. All leave requests must be formally submitted via email to the immediate supervisor with the HR department in copy, and must also be recorded in the ERP system. Leave approval depends on workload, operational needs, and managerial discretion.
+
+
+### 8.1 How to apply for leave
+
+
+To apply for any kind of leave, employees must send a proper email in advance with justification. The email should be addressed to their Team Lead or Immediate Supervisor in the To field, with the Project Coordinator, Operations Manager, and HR Department included in the CC field. For the HR department, keep people@acmeai.tech and hr.team@acmetechltd.com in CC. 
+
+
+Additionally, employees must submit a leave request in the ERP system ahead of time, adhering to the specified deadlines for both email and ERP submissions. These procedures are mandatory and must be followed accordingly. 
+
+
+There is fixed email structure for applying for leave. Below the structure is formatted clearly:
+
+
+To: Email of Team Lead or Immediate Supervisor
+CC: people@acmeai.tech, zubaer.acmeai@gmail.com, hr.team@acmetechltd.com   
+Subject: Application for (Leave Type) Leave - [Dates] 
+Leave Type: Unpaid Leave
+Start Date: [Starting Date]
+End Date: [Ending Date]
+Reason: [State your reason clearly here.]
+Best regards,
+[Your Name]
+Employee ID: [your Employee ID]
+Mobile: [your Phone Number]
+Note: Feel free to adjust the details according to your situation and our company guidelines. 
+
+
+### 8.1 Unpaid Leave
+
+
+Employees at Acme AI are entitled to 15 Unpaid leaves. Unpaid leave at Acme AI Ltd. applies in situations such as emergencies during probation, absence of allocated leave, or non-compliance with leave procedures. Officially inform your supervisor and HR dept via email as with other leave types, before 9:00 am (office starts). Unpaid leave deducts amount to one day's salary for each day taken. One day salary is calculated as per total working day of the month. Here is a calculation of how to find the total deducted salary for unpaid leave enjoyed:
+
+
+Let suppose, 
+the month has ‘X” days. 
+And the Employee’s salary is “Y” taka. 
+So, the one-day salary will be “Z = Y / X”. 
+then the total unpaid leave money deduction = Z * number of leave taken. 
+Even though our month starts from 26th day of month. But the month is always be counted on the true nature of the month. Say December = 31 days.
+
+
+### 8.2 Casual Leave
+
+
+Employees at Acme AI are entitled to 10 Casual leaves. A maximum of one (01) day of casual leave can be taken at once. The minimum notice period required for applying for casual leave is 2 days in advance for approval. 
+
+
+### 8.3 Sick Leave
+
+
+Employees at Acme AI are entitled to 14 Sick leaves. They can take the sick leave at any time subject to providing evidence of sickness e.g., diagnosis and prescription. Any duration beyond one day requires a valid doctor’s certificate or medical document. Sick leave must be reported as early as possible and before office hours commence. 
+
+
+### 8.4 Bridge Leave
+
+
+Bridge leave at Acme AI Ltd. refers to taking leave that spans across a weekly holiday, typically Saturday. For example, if you take leave on Friday and the following Sunday, this is considered bridge leave. In this scenario, it will count as 3 days of leave taken.
+
+
+### 8.5 Earned/Annual Leave
+
+
+Effective from January 1, employees are entitled to 16 annual leave days after one year of service, distributed evenly across four quarters. Leave can be encashed up to 4 days per quarter, with any unused leave converted to salary at quarter-end.
+
+
+### 8.6 Earned Leave
+
+
+Encashment amounts are based on daily wages at the time of encashment. Rules for taking annual leave are outlined in our HR Policy. The policy undergoes periodic review. Please review the full policy for compliance details.
+
+
+### 8.7 Adjustment leave
+
+
+At Acme AI Ltd., adjustment leave is granted when an employee works on a weekend or off-day. This leave allows employees to balance their work commitments by compensating them with time off for their additional efforts on non-standard workdays. 
+
+
+### 8.8 Maternity leave
+
+
+At Acme AI Ltd., our maternity leave policy requires employees to have worked for at least 6 months and have confirmed job status. Maternity leave spans 120 days, providing adequate time for maternity-related needs. This leave is only for company's female employee. Any male employee is not eligible for this leave.
+
+
+### 8.9 Leave Approval
+
+
+Leave approval at Acme AI Ltd. depends on the current workload, work balance, and the supervisor's planning. While we strive to accommodate leave requests for the benefit of our employees' well-being and work-life balance, approval is not guaranteed and is subject to the company's operational needs. This ensures that both individual needs and business requirements are balanced effectively. 
+
+
+## 9. Government HOLIDAYS
+
+
+Acme AI Ltd. observes government holidays as determined by management. A list of official government holidays, including national and religious observances, is published at the beginning of each calendar year. Below is the common holidays list that the company follows:
+
+
+International Mother Language Day- 21st February. 
+Sheikh Mujibur Rahaman’s Birthday- 17 March. 
+Independence Day- 26 March. 
+Shab-e-Qadr- (date depends on moon cycle). 
+Eid Al-Fitr- (date depends on moon cycle). 
+Bengali New Year- 14th April. 
+Labor Day/May Day- 1st May. 
+Eid Al-Adha- (date depends on moon cycle). 
+National Mourning Day- 15th August. 
+Victory Day- 16th December.
+
+
+The Company publishes at the beginning of the calendar year a list of paid government holidays. Moreover, any type of unlisted holiday can be announced by company at any time.
+
+
+## 10. PERFORMANCE MANAGEMENT AND PROMOTION
+
+
+Employee performance is evaluated using role-specific metrics such as accuracy, velocity, discipline, communication, leadership, and quality of output. Performance evaluations are conducted by supervisors, senior operations personnel, and the HR department.
+
+
+Promotions are based on company needs, employee performance, availability of vacancies, completion of the required service period, and approval by the board or senior management.
+
+
+## 11. CODE OF CONDUCT AND WORKPLACE RULES
+
+
+Employees are expected to maintain professional conduct, ethical behavior, and mutual respect in the workplace. Company resources and equipment must be used primarily for official purposes, with limited personal use permitted when it does not interfere with work.
+
+
+Employees are also responsible for following workplace safety guidelines and for the responsible use of utilities such as air conditioning, lighting, and electrical equipment to ensure a safe and energy-efficient work environment.
+
+
+## 12. IT, DATA SECURITY, AND CONFIDENTIALITY
+
+
+Acme AI Ltd. is compliant with ISO 9001 and ISO 27001 standards. All employees are required to sign a Non-Disclosure Agreement and adhere to strict data protection protocols. Confidential information must be handled responsibly, and any data breaches or security concerns must be reported immediately to HR or the IT department.
+
+
+## 13. GRIEVANCE HANDLING
+
+
+The company is committed to maintaining a positive and respectful work environment. Employees are encouraged to resolve conflicts through direct communication. If unresolved, issues should be escalated to supervisors and then to the HR department. Formal written complaints may be submitted when necessary, and all grievances will be handled fairly and confidentially.
+
+
+## 14. ONBOARDING AND PROBATION
+
+
+New employees at Acme AI Ltd. undergo a structured onboarding process that includes documentation, orientation, system access setup, team introduction, and operational briefings. The probation period for new hires is six months, after which performance is reviewed for confirmation as a permanent employee. Here's an organized outline of the onboarding procedure at Acme AI Ltd.: 
+
+
+Submit required documents and sign the appointment letter and Non-Disclosure Agreement (NDA). 
+Attend orientation with the HR department. 
+Fill out the bank account application form for salary disbursement. 
+Receive an introduction to the entire office and understand the organizational structure. 
+Meet your Team Lead and team members, locate your workstation. 
+Open a Discord account and join the official channel for communication. 
+Create a Gmail account for company communications. 
+Obtain fingerprint access for security purposes. 
+Set up an ERP account for internal processes. 
+Attend an introductory meeting with the Managing Director (MD) and Chairman to familiarize yourself with company goals and culture.
+
+
+### 14.1 Essential Documents for New Hires:
+
+
+Essential Documents to be Submitted by New Hires: 
+
+
+Employee Experience and Release Letter from Previous Employer (if any): 
+An official letter from your previous employer confirming your experience with them. 
+A letter of release, if applicable, to ensure a smooth transition from your previous role. 
+Education Certificates: 
+Copies of SSC, HSC, Graduate and Post-graduate Certificates. 
+National ID Card and Nominees ID Card: 
+Two copies of your and one copy of your nominee’s national ID card. 
+Details of your nominee, including their name and contact information. 
+Passport Size Photos: Four copies of your and two copies of your nominees’ recent passport-size photograph.
+
+### 14.2 Internship or Traineeship Duration:
+
+
+The duration of an internship at Acme AI Ltd. is usually 3 months but may vary depending on specific requirements and project needs. If you perform well and demonstrate the skills and qualities needed by the company, there may be opportunities for you to transition into a full-time position.
+
+
+## 15. RESIGNATION AND EXIT POLICY
+
+
+Employees wishing to resign are required to provide one month’s written notice or pay one month’s basic salary in lieu of notice. During the notice period, employees must complete all handover responsibilities and return company assets. Exit formalities must be completed to receive clearance documents such as experience letters and NOCs.
+
+
+## 16. PROVIDENT FUND
+
+
+Permanent employees who have completed a minimum of three years of continuous service are eligible for provident fund benefits. The amount payable is determined based on years of service and basic salary, as defined by company policy.
+
+
+## 17. ACHIEVEMENTS AND RECOGNITION
+
+
+To recognize exceptional performance, Acme AI Ltd. runs Employee of the Month and Employee of the Quarter programs. Awardees receive certificates, trophies, and public recognition as a reflection of their contribution and commitment.
+
+
+## 18. PREVIOUS YEAR PERFORMANCE
+
+
+As a startup, Acme AI Ltd. is in the early stages of growth and development. We are actively seeking new business opportunities and looking to diversify our services to ensure a robust and sustainable future. While we are still building our financial foundation, our innovative approach and commitment to quality position us well for long-term success. Our focus is on expanding our client base, exploring new markets, and continuously improving our operations to drive growth and achieve our business objectives. In 2023, the turnover rate was 57.8%. 
+
+
+In 2025, total revenue was 550000, profit was 85000, new client hunted: 115, total utility cost was: 2100, cost per employee was: 10500, and remaining other expenses was: 15000.
+
+
+In 2024, total revenue was 500000, profit was 80000, new client hunted: 120, total utility cost was: 2000, cost per employee was: 10000, and remaining other expenses was: 10000.
+
+
+In 2023, total revenue was 450000, loss was 60000, new client hunted: 100, total utility cost was: 1900, cost per employee was: 9500, and remaining other expenses was: 9500.
+
+
+In 2022, total revenue was 400000, loss was 50000, new client hunted: 90, total utility cost was: 1800, cost per employee was: 9000, and remaining other expenses was: 8500.
+
+
+In 2021, total revenue was 350000, profit was 33333.33, new client hunted: 80, total utility cost was: 1700, cost per employee was: 8500, and remaining other expenses was: 7500.
+
+
+In 2020, total revenue was 300000, loss was 18333, new client hunted: 70, total utility cost was: 1600, cost per employee was: 8000, and remaining other expenses was: 6500.
+
+
+## 19. RECRUITEMENT PROCESS
+
+
+To find out if Acme AI Ltd. is hiring new employees, you can: 
+Check the Company Website: Visit the Careers section of Acme AI Ltd.'s official website, www.acmeai.tech , for the latest job postings and updates. 
+Contact HR: Reach out to the HR department for information on current hiring needs and available positions. 
+Follow social media: Follow Acme AI Ltd. on LinkedIn, Facebook, or other social media platforms where job openings and company updates are often posted. 
+Internal Communication: Pay attention to internal communications or notice on Discord that may announce new hiring initiatives or job openings within the company. 
+
+
+## 20. Complain Policy
+
+
+Complaints or concerns regarding management or coworkers at Acme AI are addressed as follows: 
+Report the Issue: Submit your complaint to HR or a trusted senior manager. Provide clear details about the issue. 
+Confidentiality: Your complaint will be handled confidentially to protect your privacy and ensure a fair process. 
+Investigation: HR will investigate the complaint, including interviewing involved parties and gathering relevant information. 
+Resolution: Based on the findings, appropriate actions will be taken to address the issue and resolve the concern. 
+Follow-Up: HR will follow up with you to ensure the issue has been resolved satisfactorily and to prevent recurrence. 
+This process ensures that complaints are handled effectively and professionally. 
+
+to complain you should follow a email format:
+
+To: hr.acmeai@gmail.com
+From: [Your email address]
+
+Subject: Application for a format complain against [person name]
+
+Dear HR,
+[your reason in formal voice]
+
+Sincerely,
+[Your Name]
+[Position]
+
+## 21. POLICY AMENDMENT AND DISCLAIMER
+
+
+Acme AI Ltd. reserves the right to amend, revise, or withdraw any policy outlined in this manual at its discretion. Employees are advised to consult the HR department for the most current version of this document.
+
+
+## 22. Employee Names:
+
+
+There are 56 employees working currently in this company. Here are their details:
+Md. Zubaer Hossain works as a Operations Manager in the Operations Management department. His email address is zubaer.acmeai@gmail.com, project@acmeai.tech. Blood group is N/A.
+Sumaya Siddiqui works as a Operations Coordinator in the Operations Management department. Her email address is sumaya.acmeai@gmail.com,people@acmeai.tech. Blood group is N/A.
+Md. Ramjan Islam works as a Project Coordinator in the Operations Management department. His email address is romjan.acmeai@gmail.com. Blood group is N/A.
+Md Kamruzzaman Bhuiyan works as a Project Coordinator in the Operations Management department. His email address is kamruzzaman.acmeai@gmail.com. Blood group is N/A.
+Md. Asraful Alam Prottoy works as a Deputy Project Coordinator in the Operations Team department. His email address is prottoy.acmeai@gmail.com. Blood group is A+.
+Farzana Gisan works as a Asst. Team Lead in the Operations Team department. Her email address is farzana.acmeai@gmail.com. Blood group is O+.
+Nazmus Sakib works as a Executive in the Operations Team department. His email address is nazmus.acmeai@gmail.com. Blood group is O+.
+Lipi Akter works as a Production Officer in the Operations Team department. Her email address is lipiakter.acmeai@gmail.com. Blood group is B+.
+Mehmud Avy works as a Team Lead in the Operations Team department. His email address is avyacmeai164@gmail.com. Blood group is O+.
+Tasmia Ferdous Oyeshee works as a Asst. Team Lead in the Operations Team department. Her email address is tasmia.acmeai@gmail.com. Blood group is O+.
+Moontaha Zaman works as a Production Officer in the Operations Team department. Her email address is moontaha.acmeai@gmail.com. Blood group is AB+.
+Akida Hossain Liza works as a Production Officer in the Operations Team department. Her email address is liza.acmeai@gmail.com. Blood group is A+.
+Md Habibullah Shihab works as a Production Officer in the Operations Team department. His email address is habibullahshihab.acmeai@gmail.com. Blood group is B+.
+Khayrul Islam works as a Team Lead in the Operations Team department. His email address is khayrul.acmeai@gmail.com. Blood group is O+.
+Md.Nuruzzaman Nomun works as a Production Officer in the Operations Team department. His email address is aminomun.acmeai@gmail.com. Blood group is B+.
+Ahnaf Alvi works as a Production Officer in the Operations Team department. His email address is ahnafalvi.acmeai@gmail.com. Blood group is A+.
+S M Sazid Ahammod works as a Production Officer in the Operations Team department. His email address is sazid.acmeai@gmail.com. Blood group is B+.
+Md. Razu Ahmed works as a Team Lead & Sr. QA Executive in the Operations Team department. His email address is razu.acmeai@gmail.com. Blood group is O+.
+Md. Sabbir Hossain works as a Asst. Team Lead in the Operations Team department. His email address is sabbir.acmeai@gmail.com. Blood group is B+.
+Bhuban Roy works as a Executive QA & Training in the Operations Team department. His email address is bhuban.acmeai@gmail.com. Blood group is B+.
+Md. Elias Haider works as a Production Officer in the Operations Team department. His email address is elias.limon.acme@gmail.com. Blood group is O+.
+Ibrahim Khan Riyadh works as a Deputy Project Coordinator in the Operations Team department. His email address is riyadh.acmeai@gmail.com. Blood group is B+.
+Ehsanul haque works as a Asst. Team Lead in the Operations Team department. His email address is ehsan33acmeai@gmail.com. Blood group is O+.
+Jannatul Ferdous works as a Production Executive in the Operations Team department. Her email address is jannat.acmeai@gmail.com. Blood group is AB+.
+Mahfuzul Ahmed works as a Production Officer in the Operations Team department. His email address is mahfuz3210.acmeai@gmail.com. Blood group is A+.
+Mirazul Islam Raz works as a Team Lead in the Operations Team department. His email address is miraz.acmeai@gmail.com. Blood group is O+.
+Mahfuzur Rahman works as a Production Officer in the Operations Team department. His email address is mahfuz3210.acmeai@gmail.com. Blood group is A+.
+Md. Hosne Rabby works as a Production Officer in the Operations Team department. His email address is rabby.acmeai@gmail.com. Blood group is O+.
+Punom Chowhan works as a Team Lead & Senior Executive in the Operations Team department. Her email address is punom.acmeai@gmail.com. Blood group is O+.
+Saiful Islam likhon works as a Asst. Team Lead in the Operations Team department. His email address is saifulislamlikhon.acmeai@gmail.com. Blood group is O+.
+Md. Nurshad Hossain Shad works as a Production Officer in the Operations Team department. His email address is nurshadhossainacmeai@gmail.com. Blood group is O+.
+Md.Nayeemul Islam works as a Production Executive in the Operations Team department. His email address is naymul.acmeai@gmail.com. Blood group is A+.
+Shahabudin Akhon works as a ML Engineer in the Strategic Support Team department. His email address is akhonacmeai@gmail.com. Blood group is O+.
+Jaheen Md. Abrar Khan works as a Management Trainee in the Strategic Support Team department. His email address is Jaheen.acmeai@gmail.com. Blood group is B+.
+Anis Sarker works as a Full Stack Developer in the Strategic Support Team department. His email address is ansarker603@gmail.com. Blood group is B+.
+Rubyat Raina Nawshe works as a Team Lead - Strategic Support in the Strategic Support Team department. Her email address is rubyatraina22.acmeai@gmail.com. Blood group is O+.
+Mosharaf Hossain works as a Video Analyst in the Strategic Support Team department. His email address is mosharafacmeai@gmail.com. Blood group is O+.
+Dewan Rodela Ashrafi works as a Video Analyst in the Strategic Support Team department. Her email address is dewanrodela.acmeai@gmail.com. Blood group is O+.
+Hasibur Rahman Rakib works as a Video Analyst in the Strategic Support Team department. His email address is hrrakib.acmeai@gmail.com. Blood group is B+.
+Effat Un Nabi works as a Video Analyst in the Strategic Support Team department. Her email address is effat.acmeai@gmail.com. Blood group is AB+.
+Tasnim Binte Shiraj works as a Video Analyst in the Strategic Support Team department. Her email address is tasnim.acmeai@gmail.com. Blood group is B+.
+Saima Sabiha works as a Video Analyst in the Strategic Support Team department. Her email address is sabiha.acmeai@gmail.com. Blood group is B+.
+Shawon Khan works as a Video Analyst in the Strategic Support Team department. His email address is shawonacmeai@gmail.com. Blood group is O+.
+Md Neshad Tasnim works as a Video Analyst in the Strategic Support Team department. His email address is neshad.acmeai@gmail.com. Blood group is B+.
+Md. Habibur Rahman works as a Video Analyst in the Strategic Support Team department. His email address is habibur.acmeai@gmail.com. Blood group is B+.
+Sourav Hasan works as a Video Analyst in the Strategic Support Team department. His email address is sourav.acmeai@gmail.com. Blood group is O+.
+Md.Shefatul Islam works as a Video Analyst in the Strategic Support Team department. His email address is mdsifat.acme.ai@gmail.com. Blood group is B+.
+Md.Shazidul Islam works as a Video Analyst in the Strategic Support Team department. His email address is mdshazidulislam37.acmeai@gmail.com. Blood group is O+.
+Ummey Habiba Mim works as a Video Analyst in the Strategic Support Team department. Her email address is ummeyhabibamim.acmeai@gmail.com. Blood group is O+.
+Arpitaa Saha works as a Video Analyst in the Strategic Support Team department. Her email address is arpitaasaha25.acmeai@gmail.com. Blood group is A+.
+Suraiya Chowdhury works as a Video Analyst in the Strategic Support Team department. Her email address is suraiya.acmeai@gmail.com. Blood group is B+.
+Aisha Akter Tamanna works as a Finance & Accounts Executive in the Accounts department. Her email address is aisha.acmeai@gmail.com. Blood group is B+.
+Md Fardush Hasan works as a Office Assistant in the HR & Admin department. His email address is fardush.acmeai@gmail.com. Blood group is O+.
+Mahmudul Hasan Rony works as a Admin Executive in the HR & Admin department. His email address is rony.acmeai@gmail.com. Blood group is A+.
+Masud Rana works as a Office Assistant in the HR & Admin department. His email address is masud.acmeai@gmail.com. Blood group is N/A.
+Md. Hasan Ali works as a LLM Engineer in the Offshore department. His email address is hasan.acmeai@gmail.com. Blood group is B+.
+
+
+
+## Common Concerns:
+
+
+### How many times is the washroom cleaned every day?
+
+
+Ans: Washrooms are cleaned everyday. If you notice any issue in between, please inform Admin/Front Desk for immediate cleaning.
+
+
+## The carpet is very old, I feel allergic!  When will it be changed?
+
+
+Ans: Please report it to Admin with the exact location. Admin will inspect within 24 hours and either schedule deep cleaning or replacement based on condition and safety.
+
+
+## What is the official process if an employee feels their workload is becoming unmanageable?
+
+
+Ans: Inform your Team Lead with examples (tasks, deadlines, hours).
+
+
+## What steps should I follow if I notice a policy violation or workplace issue?
+
+
+Ans: Document the incident (date/time/place, what happened, witnesses if any) and report to your Team Lead
+
+
+## Who do I contact for HR-related issues?
+
+
+Ans: You can contact Sumaya Siddiqui, Operations Coordinator of Acme AI ltd. You can also mail people@acmeai.tech for your queries.
+
+
+## Is any health insurance plan available in our company?
+
+
+Ans: Acme AI Ltd. is currently seeking for best suitable health insurance provider to confirm the health insurance benefit for it's employee. So hopefully you will get the insurance soon once it is confirmed.
+
+
+
+1. How many times is the washroom cleaned every day?
+Ans: Washrooms are cleaned everyday. If you notice any issue in between, please inform Admin/Front Desk for immediate cleaning.
+2. The carpet is very old, I feel allergic!  When will it be changed?
+Ans: Thanks for raising this. Please report it to Admin with the exact location. Admin will inspect within 24 hours and either schedule deep cleaning or replacement based on condition and safety.
+3. How can I check my remaining leave balance and leave history at any time?
+Ans: You can check anytime from our ERP system. If you don’t have access, email HR to enable it.
+4. What is the official process if an employee feels their workload is becoming unmanageable?
+Ans: Inform your Team Lead with examples (tasks, deadlines, hours).
+5. What steps should I follow if I notice a policy violation or workplace issue?
+Ans: Document the incident (date/time/place, what happened, witnesses if any) and report to your Team Lead
+6. What time does the office start and end?
+Ans: Office hours are from 9:00 AM to 6:00 PM, 6 days/week.
+7. How many casual leaves do I get in a year?
+Ans: Employees at Acme AI are entitled to 10 Casual leaves
+8. When is salary usually paid?
+Ans: At Acme AI Ltd., salaries are disbursed on the 1st working day of each calendar month.
+9. Who do I contact for HR-related issues?
+Ans: You can contact Sumaya Siddiqui, Operations Coordinator of Acme AI ltd. You can also mailpeople@acmeai.techfor your queries.
+10. How can I apply for leave?
+Ans: To apply for any kind of leave, employees must send a proper email in advance with justification. The subject line should specify the type of leave and the mail body must include the dates requested. The email should be addressed to their Team Lead or Immediate Supervisor in the To field, with the Project Coordinator, Operations Manager, and HR Department included in the CC field.
+For the HR department, keep people@acmeai.tech in CC.
+Additionally, employees must submit a leave request in the ERP system ahead of time, adhering to the specified deadlines for both email and ERP submissions. These procedures are mandatory and must be followed accordingly
+11. When will the next office event be held?
+Ans: Upcoming events are shared in company calendar. The next event will be announced soon.
+12. Will employees who are currently in their probation period be eligible to receive the Eid bonus?
+Ans: Eligibility depends on policy. Usually If you are confirmed by the bonus cut-off date, you’re eligible. If you’re still on probation, eligibility is [eligible / not eligible / pro-rated] as per company policy.
+ (Confirm with HR for your joining date and cut-off.)
+13. What facilities or support does the office provide for employees who work from home?
+Ans: Remote employees receives device support depending on role and approval.
+14. How many total leaves am I entitled to take in a year?
+Ans: Based on the agreement, you have 40 leaves
+15. Are there any performance bonuses or annual increments?
+Ans: Yes, based on company performance + individual performance + role budget. Reviews usually happen [quarterly/half-yearly/annually]
+16. What benefits are included (health insurance, paid leave, holidays)?
+Ans: Benefits typically include: paid leave, festival holidays, [health fund/insurance], [overtime], [night shift allowance], [snacks/coffee], [training support] (as applicable).
+17. Does the company observe local or international holidays?
+Ans: We observe Bangladesh government/public holidays and company-declared festival holidays. Some global holidays may apply depending on projects.
+18. What is the probation period and confirmation process?
+Ans: Probation period is 6 months. Confirmation includes: attendance/discipline check + performance review + manager approval + HR confirmation letter.
+19. Are there opportunities for promotion or role changes?
+Ans: Yes, based on performance, skill growth, and business needs. You can discuss a growth plan with your manager during reviews.
+20. Does the company support learning, courses, or certifications?
+Ans: Yes, we support learning through training resources based on relevance and approval.
+21. What benefits are provided during the probation period?
+Ans: Probationary employees receive basic benefits such as paid leave eligibility (as per policy), access to office facilities, snacks/coffee, and training support. Some benefits like full bonuses or insurance may begin after confirmation depending on company policy.
+22. Is there any policy for late arrival or early leave?
+Ans: Yes. Late arrival or early departure is monitored through the attendance system. Repeated violations may lead to warnings or deductions according to company policy.
+23. How does the attendance system work, and how can I report attendance issues?
+Ans: Attendance is tracked through the ERP system and access logs. If you forget to log in/out or face a technical issue, email HR with the exact time and reason for correction.
+24. Are employees eligible for bonuses or incentives, and how are they calculated?
+Ans: Bonuses depend on company performance, individual performance, and role budget. Eligibility is determined during performance evaluations.
+25. What is the policy for public holidays and festival leaves?
+Ans: We follow the official Bangladesh government holiday calendar and company-declared festival holidays. Updates are shared in advance.
+26. How can I update my personal information (phone number, bank details)?
+Ans: Send the updated information to HR via email. Bank details may require verification before the update is finalized.
+27. What facilities are available in the office?
+Ans: Facilities include: clean workspace, washrooms, meeting rooms, snacks/coffee, high-speed internet, printing/scanning, and basic medical/first-aid supplies.
+28. How can I update my emergency contact information in the company system?
+Ans: Email HR with the new contact details and they will update it in your personnel file and ERP system.
+29. What's the best way to suggest new snacks for the office kitchen without offending the current choices?
+Ans: Share your suggestion politely with Admin or HR. All snack feedback is welcomed.
+30. Is any health insurance plan available in our company?
+Ans: Yes, the company provides health insurance as per policy eligibility (often after confirmation).
+31. How do I access training resources to improve my project management skills?
+Ans: Request access through your Team Lead or HR. Relevant training materials or courses will be recommended based on your role.
+32. How do I report a broken coffee machine in the office kitchen without sounding like I'm the one who broke it?
+Ans: Just inform Admin: “The coffee machine seems to have an issue; could you please check it?” No blame implied.
+33. How do I request IT support for remote connectivity issues, such as VPN problems?
+Ans: Open an IT support ticket via email or internal channel with screenshots and a description of the issue.
+34. How do I claim tax deductions for home office expenses?
+Ans: Share receipts and follow the company-approved reimbursement policy. HR or Accounts will guide based on applicable rules.
+35. How should I log my daily work hours when working from home?
+Ans: Use the ERP or designated time-tracking tool. Ensure login/logout times and task summaries are accurate.
+36. Are there any wellness programs for remote employees?
+Ans: Yes—virtual wellness content, mental health resources, and occasional online engagement programs may be available.
+37. How do I apply for company-provided stipends for home office utilities (electricity/internet)?
+Ans: Submit a request to HR/Finance with monthly bills if your role qualifies for such support.
+38. What are the official hours of operations?
+Ans: The company operates from 9:00 AM to 6:00 PM, six days a week.
+39. Whom to contact for any queries?
+Ans:  For HR: people@acmeai.tech
+For Admin/Operations: Contact Operations Coordinator
+For IT: Submit an IT support request
+For project work: Contact your Team Lead
+40. What are your core capabilities?
+Ans: Acme AI specializes in IT-enabled services, data operations, AI/ML support, project management, and offshore team operations.
+41. Can you calculate the accumulative hours of any employee?
+Ans: Yes, this is available in the ERP system. HR can generate the report upon request.
+42. Is medical service available at the office?
+Ans: Basic first-aid support is available. For emergencies, Admin will assist with transportation.
+43. Could you please give me a list of basic rules that I need to follow?
+Ans: Basic rules include: maintaining attendance, meeting deadlines, following communication protocols, using office resources responsibly, adhering to security policies, and maintaining professional conduct.
+44. What are the non-negotiable rules?
+Ans: These include: harassment & discrimination bans, confidentiality, data privacy, attendance fraud, misuse of company property, and policy violations.
+45. How many unpaid leaves can I take in a month?
+Ans: Unpaid leave is allowed only with approval from your Team Lead and HR. There is no fixed monthly limit but excessive unpaid leave affects performance evaluation.
+46. Heavy traffic/hartal made me 3 hours late—does this count as half-day leave?
+Ans: If approved by your Team Lead, it may be adjusted as late arrival instead of half-day. Otherwise, half-day leave may apply.
+47. My probation ends next month; what is the confirmation process?
+Ans: Steps: performance review → attendance/discipline check → manager recommendation → HR verification → confirmation letter issued.
+48. I completed one full year—when is my festival bonus due?
+Ans: Festival bonus eligibility follows company policy, typically paid before Eid or major festivals.
+49. How are festival bonuses calculated? Am I eligible?
+Ans: Bonus = percentage of basic salary, pro-rated if you joined mid-year. Eligibility depends on your joining date and cut-off.
+50. What is the company’s remote/hybrid policy?
+Ans: Remote work requires approval from your Team Lead + HR. Equipment support may depend on role.
+51. Process for performance reviews, increments, promotions?
+Ans: Typically annual or semi-annual: evaluation → TL feedback → management review → HR confirmation → increment/promotion decision.
+52. Process to request work-from-home?
+Ans: Email your Team Lead with reason + duration. CC PC,Operation manager & people acme ai tech. Emergency WFH may require documentation.
+53. How many annual leave days am I entitled to?
+Ans: Total annual entitlement depends on policy (your file states 40). Apply through email + ERP.
+54. Policy on festival/holiday declarations?
+Ans: We follow Bangladesh government holidays + company-declared festival holidays.
+55. Does the company organize an annual picnic?
+Ans: Yes, depending on budget and management decision.
+56. Process to apply for remote work? Restrictions?
+Ans: Depends on role requirements. Some roles may require physical presence.
+57. Where can I see company-approved public holidays/OT rules?
+Ans: In the company calendar or HR announcements.
+58. I deleted a client’s Telegram account; am I getting fired?
+Ans: Report immediately to your Team Lead + HR. Investigation will determine the next steps; honest reporting is important.
+59. Will remote employees get snacks?
+Ans: Remote perks vary, but an equivalent allowance may be provided if approved.
+60. Where is my office located?
+Ans: House 385, Road 6, Mirpur DOHS, Dhaka 1216.
+61. I am bored of repetitive work—how to make it challenging?
+Ans: Discuss skill development, new tasks, or role expansion with your Team Lead.
+62. What is the exact process for emergency leave?
+Ans: Notify your TL immediately by phone/email → HR CC → ERP submission later.
+63. If I forget to log in/out, how do I fix attendance?
+Ans: Email HR with the correct times and reason.
+64. Are there performance-based rewards?
+Ans: Yes—recognition programs and performance bonuses may apply.
+65. What if my salary or overtime is incorrect/delayed?
+Ans: Email Accounts + HR with details. They will verify and resolve it.
+66. Is there a policy for changing shifts or swapping duties?
+Ans: Yes—requires TL + HR approval.
+67. What kind of projects does Acme AI work on?
+Ans: AI/ML annotation, analytics, data operations, project management, and offshore ITES support.
+68. What is the role of a video analyst?
+Ans: Review, analyze, and tag video content based on project guidelines.
+69. Does the company ensure fair compensation?
+Ans: Yes—roles and salaries follow structured bands and market benchmarks.
+70. Are there hidden company policies?
+Ans: No—all policies are documented and shared.
+71. Do remote employees get equivalent perks to snacks/coffee?
+Ans: Some equivalents may be provided depending on budget and policy.
+72. How does the company assess employee satisfaction?
+Ans: Feedback forms, surveys, 1:1 check-ins, and HR reviews.
+73. What resources support employee well-being?
+Ans: Workshops, breaks, ergonomic guidance, and HR support channels.
+74. Does the company take care of mental health?
+Ans: Support is provided through HR check-ins, leave flexibility, and resources when needed.
+75. What are the company’s holiday & leave policies?
+Ans: Government holidays + festival holidays + annual leave + casual leave + sick leave as per policy.
+76. Why does corporate pay minimum salaries?
+Ans: Budgets depend on business sustainability, but fairness and performance-based increments are considered.
+77. What does management prefer—maximum effort or minimum needed?
+Ans: Management prefers consistent, responsible, high-quality work—not burnout or minimal effort.
+78. What is the turnaround time for HR/IT ticket resolutions?
+Ans: Usually within 24–72 hours depending on issue severity.
+79. How often are performance reviews done?
+Ans: Quarterly, semi-annual, or annual depending on role and project.
+80. If an employee joins mid-year, how are leaves/bonuses calculated?
+Ans: Leaves are prorated; festival bonuses may also be prorated based on joining date.
+81. Flexible hours for emergencies?
+Ans: Yes—requires TL + HR approval.
+82. How are complaints handled confidentially?
+Ans: Reported directly to HR; identity is protected unless required for investigation.
+83. Are remote employees eligible for benefits?
+Ans: Some benefits apply equally; others depend on role suitability and policy.
+84. How does the company support employee growth?
+Ans: Training, mentorship, cross-project opportunities, and skill development sessions.
+

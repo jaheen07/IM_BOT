@@ -1,0 +1,57 @@
+employeeId,Employee Name,Email,Position,Blood Group,Table,Gender,Department,Earned Leave,Casual Leave,Sick Leave,Maternity Leave,Without Pay Leave,Adjustment Leave
+1,Md. Zubaer Hossain,"zubaer.acmeai@gmail.com, project@acmeai.tech",Operations Manager,N/A,N/A,Male,Operations Management,16,10,14,0,15,0
+2,Sumaya Siddiqui,"sumaya.acmeai@gmail.com,people@acmeai.tech",Operations Coordinator,N/A,N/A,Female,Operations Management,16,10,14,0,15,0
+3,Md. Ramjan Islam,romjan.acmeai@gmail.com,Project Coordinator,N/A,N/A,Male,Operations Management,16,10,14,0,15,0
+4,Md Kamruzzaman Bhuiyan,kamruzzaman.acmeai@gmail.com,Project Coordinator,N/A,N/A,Male,Operations Management,16,10,14,0,15,0
+5,Md. Asraful Alam Prottoy,prottoy.acmeai@gmail.com,Deputy Project Coordinator,A+,1-A,Male,Operations Team,16,10,14,0,15,0
+6,Farzana Gisan,farzana.acmeai@gmail.com,Asst. Team Lead,O+,1-A,Female,Operations Team,16,10,14,0,15,0
+7,Nazmus Sakib,nazmus.acmeai@gmail.com,Executive,O+,1-A,Male,Operations Team,16,10,14,0,15,0
+8,Lipi Akter,lipiakter.acmeai@gmail.com,Production Officer,B+,1-A,Female,Operations Team,16,10,14,0,15,0
+9,Mehmud Avy,avyacmeai164@gmail.com,Team Lead,O+,1-B,Male,Operations Team,16,10,14,0,15,0
+10,Tasmia Ferdous Oyeshee,tasmia.acmeai@gmail.com,Asst. Team Lead,O+,1-B,Female,Operations Team,16,10,14,0,15,0
+11,Moontaha Zaman,moontaha.acmeai@gmail.com,Production Officer,AB+,1-B,Female,Operations Team,16,10,14,0,15,0
+12,Akida Hossain Liza,liza.acmeai@gmail.com,Production Officer,A+,1-B,Female,Operations Team,16,10,14,0,15,0
+13,Md Habibullah Shihab,habibullahshihab.acmeai@gmail.com,Production Officer,B+,1-B,Male,Operations Team,16,10,14,0,15,0
+14,Khayrul Islam,khayrul.acmeai@gmail.com,Team Lead,O+,1-C,Male,Operations Team,16,10,14,0,15,0
+15,Md.Nuruzzaman Nomun,aminomun.acmeai@gmail.com,Production Officer,B+,1-C,Male,Operations Team,16,10,14,0,15,0
+16,Ahnaf Alvi,ahnafalvi.acmeai@gmail.com,Production Officer,A+,1-C,Male,Operations Team,16,10,14,0,15,0
+17,S M Sazid Ahammod,sazid.acmeai@gmail.com,Production Officer,B+,1-C,Male,Operations Team,16,10,14,0,15,0
+18,Md. Razu Ahmed,razu.acmeai@gmail.com,Team Lead & Sr. QA Executive,O+,1-D,Male,Operations Team,16,10,14,0,15,0
+19,Md. Sabbir Hossain,sabbir.acmeai@gmail.com,Asst. Team Lead,B+,1-D,Male,Operations Team,16,10,14,0,15,0
+20,Bhuban Roy,bhuban.acmeai@gmail.com,Executive QA & Training,B+,1-D,Male,Operations Team,16,10,14,0,15,0
+21,Md. Elias Haider,elias.limon.acme@gmail.com,Production Officer,O+,1-D,Male,Operations Team,16,10,14,0,15,0
+22,Ibrahim Khan Riyadh,riyadh.acmeai@gmail.com,Deputy Project Coordinator,B+,2-A,Male,Operations Team,16,10,14,0,15,0
+23,Ehsanul haque,ehsan33acmeai@gmail.com,Asst. Team Lead,O+,2-A,Male,Operations Team,16,10,14,0,15,0
+24,Jannatul Ferdous,jannat.acmeai@gmail.com,Production Executive,AB+,2-A,Female,Operations Team,16,10,14,0,15,0
+25,Mahfuzul Ahmed,mahfuz3210.acmeai@gmail.com,Production Officer,A+,2-A,Male,Operations Team,16,10,14,0,15,0
+26,Mirazul Islam Raz,miraz.acmeai@gmail.com,Team Lead,O+,2-B,Male,Operations Team,16,10,14,0,15,0
+27,Mahfuzur Rahman,mahfuz3210.acmeai@gmail.com,Production Officer,A+,2-B,Male,Operations Team,16,10,14,0,15,0
+28,Md. Hosne Rabby,rabby.acmeai@gmail.com,Production Officer,O+,2-B,Male,Operations Team,16,10,14,0,15,0
+29,Punom Chowhan,punom.acmeai@gmail.com,Team Lead & Senior Executive,O+,2-C,Female,Operations Team,16,10,14,0,15,0
+30,Saiful Islam likhon,saifulislamlikhon.acmeai@gmail.com,Asst. Team Lead,O+,2-C,Male,Operations Team,16,10,14,0,15,0
+31,Md. Nurshad Hossain Shad,nurshadhossainacmeai@gmail.com,Production Officer,O+,2-C,Male,Operations Team,16,10,14,0,15,0
+32,Md.Nayeemul Islam,naymul.acmeai@gmail.com,Production Executive,A+,2-C,Male,Operations Team,16,10,14,0,15,0
+33,Shahabudin Akhon,akhonacmeai@gmail.com,ML Engineer,O+,2-D,Male,Strategic Support Team,16,10,14,0,15,0
+330,Jaheen Md. Abrar Khan,Jaheen.acmeai@gmail.com,Management Trainee,B+,2-D,Male,Strategic Support Team,0,0,0,0,12.5,0
+34,Anis Sarker,ansarker603@gmail.com,Full Stack Developer,B+,2-D,Male,Strategic Support Team,16,10,14,0,15,0
+249,Rubyat Raina Nawshe,rubyatraina22.acmeai@gmail.com,Team Lead - Strategic Support,O+,2-D,Female,Strategic Support Team,16,10,14,0,15,0
+35,Mosharaf Hossain,mosharafacmeai@gmail.com,Video Analyst,O+,2-D,Male,Strategic Support Team,16,10,14,0,15,0
+36,Dewan Rodela Ashrafi,dewanrodela.acmeai@gmail.com,Video Analyst,O+,2-D,Female,Strategic Support Team,16,10,14,0,15,0
+37,Hasibur Rahman Rakib,hrrakib.acmeai@gmail.com,Video Analyst,B+,2-D,Male,Strategic Support Team,16,10,14,0,15,0
+38,Effat Un Nabi,effat.acmeai@gmail.com,Video Analyst,AB+,2-D,Female,Strategic Support Team,16,10,14,0,15,0
+39,Tasnim Binte Shiraj,tasnim.acmeai@gmail.com,Video Analyst,B+,2-D,Female,Strategic Support Team,16,10,14,0,15,0
+40,Saima Sabiha,sabiha.acmeai@gmail.com,Video Analyst,B+,2-D,Female,Strategic Support Team,16,10,14,0,15,0
+41,Shawon Khan,shawonacmeai@gmail.com,Video Analyst,O+,2-D,Male,Strategic Support Team,16,10,14,0,15,0
+42,Md Neshad Tasnim,neshad.acmeai@gmail.com,Video Analyst,B+,2-D,Male,Strategic Support Team,16,10,14,0,15,0
+43,Md. Habibur Rahman,habibur.acmeai@gmail.com,Video Analyst,B+,2-D,Male,Strategic Support Team,16,10,14,0,15,0
+44,Sourav Hasan,sourav.acmeai@gmail.com,Video Analyst,O+,2-D,Male,Strategic Support Team,16,10,14,0,15,0
+45,Md.Shefatul Islam,mdsifat.acme.ai@gmail.com,Video Analyst,B+,2-D,Male,Strategic Support Team,0,0,0,0,15,0
+46,Md.Shazidul Islam,mdshazidulislam37.acmeai@gmail.com,Video Analyst,O+,2-D,Male,Strategic Support Team,0,0,0,0,15,0
+47,Ummey Habiba Mim,ummeyhabibamim.acmeai@gmail.com,Video Analyst,O+,2-D,Female,Strategic Support Team,0,0,0,0,15,0
+48,Arpitaa Saha,arpitaasaha25.acmeai@gmail.com,Video Analyst,A+,2-D,Female,Strategic Support Team,0,0,0,0,15,0
+49,Suraiya Chowdhury,suraiya.acmeai@gmail.com,Video Analyst,B+,2-D,Female,Strategic Support Team,0,0,0,0,15,0
+50,Aisha Akter Tamanna,aisha.acmeai@gmail.com,Finance & Accounts Executive,B+,4-D,Female,Accounts,0,0,0,0,15,0
+51,Md Fardush Hasan,fardush.acmeai@gmail.com,Office Assistant,O+,2-D,Male,HR & Admin,16,10,14,0,15,0
+52,Mahmudul Hasan Rony,rony.acmeai@gmail.com,Admin Executive,A+,1-D,Male,HR & Admin,16,10,14,0,15,0
+53,Masud Rana,masud.acmeai@gmail.com,Office Assistant,N/A,4-D,Male,HR & Admin,16,10,14,0,15,0
+54,Md. Hasan Ali,hasan.acmeai@gmail.com,LLM Engineer,B+,2-D,Male,Offshore,16,10,14,0,15,0
