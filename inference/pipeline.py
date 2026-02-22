@@ -107,6 +107,29 @@ Instructions:
                 f"{row.get('Adjustment Leave', 0)} Adjustment Leaves remaining."
             )
         return profile_map
+    
+
+    def _load_leaves(self) -> Dict[str, str]:
+        csv_path = os.path.join("data", "employee_table.csv")
+        if not os.path.exists(csv_path):
+            return {}
+
+        employees = pd.read_csv(csv_path)
+        profile_map: Dict[str, str] = {}
+        for _, row in employees.iterrows():
+            employee_id = str(row.get("employeeId", "")).strip()
+            if not employee_id:
+                continue
+            profile_map[employee_id] = {
+            "gender": row.get("Gender", "Male"),
+            "earned_leave": row.get("Earned Leave", 0),
+            "casual_leave": row.get("Casual Leave", 0),
+            "sick_leave": row.get("Sick Leave", 0),
+            "maternity_leave": row.get("Maternity Leave", 0),
+            "without_pay_leave": row.get("Without Pay Leave", 0),
+            "adjustment_leave": row.get("Adjustment Leave", 0),
+            }
+        return profile_map
 
     def _normalize_language(self, language: str) -> str:
         lang = language.lower().strip()
