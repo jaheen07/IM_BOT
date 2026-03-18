@@ -6,7 +6,7 @@ from vector_store.embedder import get_embedder
 def get_vectordb(language: str):
     persist_dir = f"{PERSIST_DIRECTORY}/{COLLECTION_NAME}_{language}"
     collection_name = f"{language}_chunks"
-    embedder = get_embedder()
+    embedder = get_embedder(language)
 
     return Chroma(
         embedding_function=embedder,

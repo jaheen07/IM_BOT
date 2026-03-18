@@ -1,0 +1,220 @@
+Software Requirements Specification
+ACME AI HR Chatbot Backend (RAG)
+Version 1.1
+Prepared by Jaheen Md. Abrar Khan (updated)
+Acme AI Ltd.
+11-Mar-2026
+
+Table of Contents
+1. Introduction
+1.1 Purpose
+1.2 Document Conventions
+1.3 Intended Audience and Reading Suggestions
+1.4 Project Scope
+1.5 References
+2. Overall Description
+2.1 Product Perspective
+2.2 Product Features
+2.3 User Classes and Characteristics
+2.4 Operating Environment
+2.5 Design and Implementation Constraints
+3. System Features
+3.1 Build Vector Database
+3.2 Chat with HR Assistant
+3.3 Get Leave Balances
+3.4 Get Attendance Summary
+3.5 Reset Chat History
+4. External Interface Requirements
+4.1 User Interfaces
+4.2 Hardware Interfaces
+4.3 Communications Interfaces
+5. Other Nonfunctional Requirements
+5.1 Performance Requirements
+5.2 Safety Requirements
+5.3 Security Requirements
+5.4 Software Quality Attributes
+6. Other Requirements
+Revision History
+
+1. Introduction
+
+1.1 Purpose
+The purpose of this document is to specify the software requirements for the ACME AI HR Chatbot backend. This document covers the functional requirements, architectural constraints, and external interfaces for a FastAPI-based backend that provides a Retrieval-Augmented Generation (RAG) service for HR policy questions and employee information (leave and attendance).
+
+1.2 Document Conventions
+All mandatory requirements use "shall"; optional or recommended behaviors use "should".
+Technical terms such as RAG, embeddings, Chroma, and LLM follow standard AI engineering terminology and are defined in the Glossary.
+Code elements mentioned in this document follow Python naming conventions exactly as in the implementation.
+
+1.3 Intended Audience and Reading Suggestions
+This document is intended for:
+AI Developers and ML Engineers: Architecture, data pipeline, and system integration points.
+Project Managers: Requirement completion and scope.
+QA/Test Engineers: Test case derivation from requirements.
+DevOps/Infrastructure Engineers: Deployment constraints, API endpoints, and runtime behaviors.
+Reading suggestion:
+Developers should focus on Section 3 and Section 4. Project Managers should prioritize Section 1.4 and Section 2.
+
+1.4 Project Scope
+The ACME AI HR Chatbot backend provides an API that answers HR policy questions using RAG and returns employee leave/attendance information from CSV files. It is designed as a server-side component integrated with a frontend client. Key capabilities include:
+- Document ingestion: HR policy documents (text files) are split into chunks and embedded.
+- Vector retrieval: Chroma vector store persists embeddings and supports top-k retrieval.
+- Context-aware answers: User profile and conversation history are used where applicable.
+- Employee data lookup: Leave balances and attendance summaries are returned by user_id.
+- ERP guidance: When the query indicates an ERP leave application request, the system returns a step-by-step tutorial from a local JSON file.
+
+Out of scope:
+- Authentication and authorization.
+- UI/Frontend implementation.
+- Direct ERP integration (only tutorial steps are returned).
+
+1.5 References
+Project source code:
+- main.py
+- inference/api.py
+- inference/pipeline.py
+- config/constants.py
+
+2. Overall Description
+
+2.1 Product Perspective
+The HR Chatbot backend is a FastAPI service that exposes REST endpoints for ingestion, retrieval, and inference. It uses a local Chroma vector store for retrieval and a local Ollama server for LLM inference. The system maintains lightweight per-user chat history in memory for context handling.
+
+2.2 Product Features
+- Build vector databases for English and Bangla policy text.
+- Answer HR policy questions grounded in retrieved context and user profile data.
+- Return leave balances for a given employee.
+- Return attendance summaries for the current day and current month.
+- Reset chat history for a specific user.
+- Provide ERP leave application steps when requested.
+
+2.3 User Classes and Characteristics
+- Employees (End Users): Ask HR questions and request leave/attendance info by user_id.
+- HR/Admin: Maintain policy documents and employee data; rebuild vector database.
+- Integrators/Developers: Integrate endpoints into other systems or frontend apps.
+
+2.4 Operating Environment
+Backend Server:
+- Python 3.x
+- FastAPI and Uvicorn
+- LangChain
+- Chroma vector store (local persistence)
+- Ollama server for LLM inference (default http://localhost:11434)
+
+Data Files:
+- data/raw/english and data/raw/bangla text files
+- data/employee_table.csv
+- data/attendance.csv
+- data/tutorials.json
+
+2.5 Design and Implementation Constraints
+- Vector store is persisted locally under db_Policy/.
+- Language support is limited to English and Bangla.
+- Ingestion supports .txt files only; .docx or .pdf must be converted to text before ingestion.
+- Employee data is looked up by user_id only; no authentication is implemented.
+
+3. System Features
+
+3.1 Build Vector Database
+Description and Priority:
+High priority. Builds a vector database for the selected language.
+
+Stimulus/Response Sequence:
+- Client sends POST /build-vectordb with language (english or bangla).
+- System loads .txt documents from data/raw/{language}, splits them, embeds, and persists to Chroma.
+
+Functional Requirements:
+REQ-3.1.1: The system shall accept language values "english" or "bangla" only.
+REQ-3.1.2: The system shall split documents into chunks using RecursiveCharacterTextSplitter.
+REQ-3.1.3: The system shall persist embeddings into Chroma at db_Policy/Information_chunks_{language}.
+REQ-3.1.4: The system shall invalidate any cached vector database for that language after rebuild.
+
+3.2 Chat with HR Assistant
+Description and Priority:
+High priority. Answers HR questions using RAG with policy context and user profile.
+
+Stimulus/Response Sequence:
+- Client sends POST /chat with user_id and question.
+- System detects language, resolves query (rewrite or translation), retrieves context, and generates an answer using Ollama.
+
+Functional Requirements:
+REQ-3.2.1: The system shall expose POST /chat accepting user_id and question.
+REQ-3.2.2: The system shall detect English or Bangla using langdetect.
+REQ-3.2.3: For English queries, the system shall rewrite follow-up questions using LLM to a standalone query.
+REQ-3.2.4: For Bangla queries, the system shall translate the query to English for retrieval and apply a stricter relevance threshold.
+REQ-3.2.5: The system shall retrieve top-k chunks from Chroma and include them in the LLM prompt.
+REQ-3.2.6: The system shall limit chat history to a fixed number of turns (default 8).
+REQ-3.2.7: If retrieved context is insufficient, the system shall return a safe fallback message.
+REQ-3.2.8: If the query indicates ERP leave application, the system shall return tutorial steps from data/tutorials.json.
+
+3.3 Get Leave Balances
+Description and Priority:
+Medium priority. Returns leave balances for a given user_id.
+
+Functional Requirements:
+REQ-3.3.1: The system shall expose POST /leaves accepting user_id.
+REQ-3.3.2: The system shall return earned, casual, sick, maternity, unpaid, and adjustment leave fields, and gender.
+
+3.4 Get Attendance Summary
+Description and Priority:
+Medium priority. Returns attendance summary for the current day and current month.
+
+Functional Requirements:
+REQ-3.4.1: The system shall expose POST /attendance accepting user_id.
+REQ-3.4.2: The system shall return first_entry and last_entry for the current day when available.
+REQ-3.4.3: The system shall return a list of daily first entries for the current month (previous_record).
+
+3.5 Reset Chat History
+Description and Priority:
+Low priority. Clears stored chat history for a user.
+
+Functional Requirements:
+REQ-3.5.1: The system shall expose POST /chat/reset accepting user_id.
+REQ-3.5.2: The system shall clear stored chat history for that user.
+
+4. External Interface Requirements
+
+4.1 User Interfaces
+The system is API-only. Client applications (web or mobile) interact via JSON over HTTP.
+FastAPI interactive documentation is available at /docs and /redoc when the server is running.
+
+4.2 Hardware Interfaces
+Server Side:
+- A host capable of running Python 3.x and the Uvicorn server.
+- Storage for Chroma persistence and data files.
+
+4.3 Communications Interfaces
+- RESTful API over HTTP/HTTPS.
+- JSON request and response payloads.
+- Default port is 8000 unless configured otherwise.
+
+5. Other Nonfunctional Requirements
+
+5.1 Performance Requirements
+PERF-01: The system should provide interactive response times for chat under normal load.
+PERF-02: Vector retrieval shall be limited to top-k results (default 5).
+PERF-03: Vector database build time depends on document size and embedding model.
+
+5.2 Safety Requirements
+SAFE-01: The system shall not answer outside the provided HR context when insufficient data is retrieved.
+SAFE-02: If data files are missing or invalid, the system shall return clear error messages.
+
+5.3 Security Requirements
+SEC-01: The system currently has no authentication or authorization; access control must be added for production use.
+SEC-02: Employee data is accessed by user_id only; proper access controls are required in production.
+
+5.4 Software Quality Attributes
+Maintainability:
+- Modular structure with separate components for preprocessing, vector store, and inference.
+Portability:
+- Runs on standard Python environments with dependency management via requirements.txt.
+
+6. Other Requirements
+Data Requirements:
+- Policy documents must be provided as .txt files in data/raw/{english,bangla}.
+- Employee and attendance data must be available in data/employee_table.csv and data/attendance.csv.
+
+Revision History
+Name | Date | Reason For Changes | Version
+HR Chatbot Initial | 12-Dec-2025 | Initial SRS | 1.0
+HR Chatbot Update | 11-Mar-2026 | Updated for current backend implementation | 1.1

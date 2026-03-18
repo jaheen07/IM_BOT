@@ -7,13 +7,13 @@ from langchain_community.document_loaders import TextLoader
 from pydantic import BaseModel
 import pandas as pd
 from config.constants import COLLECTION_NAME, PERSIST_DIRECTORY
-from inference.pipeline import MenstrualHealthRAG
+from inference.pipeline import RAGBOT
 from splitter.text_splitter import get_text_splitter
 from vector_store.embedder import get_embedder
 from vector_store.store import build_vector_store
 
 router = APIRouter()
-rag_instance = MenstrualHealthRAG()
+rag_instance = RAGBOT()
 
 
 class VectorDBRequest(BaseModel):
@@ -28,6 +28,8 @@ class ChatRequest(BaseModel):
 class LeaveRequest(BaseModel):
     user_id: str
 
+class AttendanceRequest(BaseModel):
+    user_id: str
 
 class ResetChatRequest(BaseModel):
     user_id: str
@@ -48,7 +50,7 @@ def build_vector_db(request: VectorDBRequest):
         raise HTTPException(status_code=404, detail=f"No .txt files found in {data_dir}.")
 
     splitter = get_text_splitter()
-    embedder = get_embedder()
+    embedder = get_embedder(lang)
 
     documents = []
     for file in files:
@@ -105,13 +107,28 @@ def leave_endpoint(request: LeaveRequest):
         return profile
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error during inference: {str(e)}")
+    
+
+
+@router.post("/attendance")
+def attendance_endpoint(request: LeaveRequest):
+    id = request.user_id
+    if not id:
+        raise HTTPException(status_code=400, detail="User ID cannot be empty.")
+    try:
+        profile_map = rag_instance._load_attendance()
+        profile = profile_map.get(id)
+        if not profile:
+            return {"message": f"No attendance information found for user_id '{id}'."}
+        return profile
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error during inference: {str(e)}")
 
 
 @router.post("/chat/reset")
 def reset_chat(request: ResetChatRequest):
     rag_instance.clear_history(request.user_id)
     return {"message": f"Chat history cleared for user_id '{request.user_id}'."}
-
 
 
 

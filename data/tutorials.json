@@ -1,0 +1,72 @@
+{
+  "leave_application": {
+    "title": "How to take Leave in ERP",
+    "steps": [
+      {
+        "step": 1,
+        "text": "Login to the ERP portal: http://103.205.135.34/acmeerp/ using your employee credentials.",
+        "image_url": "https://i.ibb.co.com/84btcHXp/image.png"
+      },
+      {
+        "step": 2,
+        "text": "Navigate to the Top Right corner and click on your profile module.",
+        "image_url": "https://i.ibb.co.com/XfmBSBCm/image.png"
+      },
+      {
+        "step": 3,
+        "text": "From the dropdown, click on 'Apply Leave' option.",
+        "image_url": "https://i.ibb.co.com/0VDDb82Z/image.png"
+      },
+      {
+        "step": 4,
+        "text": "Choose Start date, End date and Leave type.",
+        "image_url": "https://i.ibb.co.com/jPc2V9wQ/image.png"
+      },
+      {
+        "step": 5,
+        "text": "Enter the duration for leave (full-day / Half-day) and describe the reason for leave clearly ",
+        "image_url": "https://i.ibb.co.com/YFBf3b7S/image.png"
+      },
+      {
+        "step": 6,
+        "text": "choose your supervisor/teamlead for pass over the duties from the dropdown and write note (if any). Then Submit the application.",
+        "image_url": "https://i.ibb.co.com/DDdn77mq/image.png"
+      },
+      {
+        "step": 7,
+        "text": "After applying leave in ERP, you have to send a manual email to your supervisor also.",
+        "image_url": "https://i.ibb.co.com/KjmynXcP/image.png"
+      }
+    ]
+  },
+  "attendance_regularization": {
+    "title": "How to Regularize Attendance",
+    "steps": [
+      {
+        "step": 1,
+        "text": "Login to ERP and go to 'Attendance' module.",
+        "image_url": "/static/tutorials/attendance/step1_login.png"
+      },
+      {
+        "step": 2,
+        "text": "Click on 'Attendance Regularization' option.",
+        "image_url": "/static/tutorials/attendance/step2_regularization.png"
+      },
+      {
+        "step": 3,
+        "text": "Select the date you need to regularize.",
+        "image_url": "/static/tutorials/attendance/step3_select_date.png"
+      },
+      {
+        "step": 4,
+        "text": "Enter the correct in-time and out-time.",
+        "image_url": "/static/tutorials/attendance/step4_enter_time.png"
+      },
+      {
+        "step": 5,
+        "text": "Provide reason and submit for approval.",
+        "image_url": "/static/tutorials/attendance/step5_submit.png"
+      }
+    ]
+  }
+}
